@@ -1,5 +1,1 @@
-kubejs/*
-!kubejs/client_scripts/
-!kubejs/client_scripts/**
-!kubejs/assets/
-!kubejs/assets/**
+kubejs/server_scripts/**
