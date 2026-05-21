@@ -1,6 +1,86 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/healer.json"
+hash = "5b9b4c145863f027d9dc78e696c5670852133f7d4a6d9507b189a9a8b82ac4f2"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/laptop.json"
+hash = "e614cf58a12d43962550ad6d6e4a38d8cb2e85d70e4ebfe88077556b9a8f1368"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/assets/pokehaancraftadd/textures/items/light_white.png"
+hash = "9c9cdfcc07b50f4d700fc3830e330364fb6be869c5c1892d3da6c9c37acb3b50"
+
+[[files]]
+file = "kubejs/assets/pokehaancraftadd/textures/items/red.png"
+hash = "926cbfd386ae81df57ecd15f35e4ae7cd8f866bf88db8e38e12eef134085ecf3"
+
+[[files]]
+file = "kubejs/assets/pokehaancraftadd/textures/items/white.png"
+hash = "e9875514752609f32a547ef2f24ada5e31f743449049cf755f6e612479d18cd4"
+
+[[files]]
+file = "kubejs/client_scripts/main.js"
+hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
+
+[[files]]
+file = "kubejs/config/client.json"
+hash = "0aeb4cb329b896e33a0777a1683b0b813a6f2f0adc5bc2cf3e6d10e18e442fef"
+
+[[files]]
+file = "kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "kubejs/config/web_server.json"
+hash = "87e34e85562e348621e18ae7b9ecbf7c1c4c504b6345ee448af41b8bda0499fd"
+
+[[files]]
+file = "kubejs/data/pixelmon/worldgen/structure_set/way_point.json"
+hash = "0c5b2dd1b83eddb2d05f9c66d7bbd80d9f1ab64f57b78670357fe693581c43a9"
+
+[[files]]
+file = "kubejs/server_scripts/healer.js"
+hash = "a0768b5ae986e17cdbe045fc6a50f788fd7140c5733d5bc7821d88403686a722"
+
+[[files]]
+file = "kubejs/server_scripts/laptop.js"
+hash = "fca7033d30ffd3a03fad3f9daf976d435b67a86ebe3af5a62844ed9ea51bd9de"
+
+[[files]]
+file = "kubejs/server_scripts/pokestop_loot_table.js"
+hash = "6f2cb0df4fa4ef105e925b42143ca79f44e526de5c9d313e2db293c357e73006"
+
+[[files]]
+file = "kubejs/startup_scripts/healer.js"
+hash = "a349ad208777b88d993509297ad33dbb37c47e4e702ab424c0d6d0c16b78650c"
+
+[[files]]
+file = "kubejs/startup_scripts/laptop.js"
+hash = "1b38ed0cd864abadfa166be747b86a227800e0771914f8e666e71276d8dccd0f"
+
+[[files]]
+file = "kubejs/startup_scripts/main.js"
+hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
+
+[[files]]
+file = "kubejs/startup_scripts/npc_invuln.js"
+hash = "db5b58f9b7f82f7a6da782c5af9bd66d4cb4991445ca3fdab4bd0da1471de226"
+
+[[files]]
 file = "mods/a-man-with-plushies.pw.toml"
 hash = "29fbcd5ef12fd11ab78e9696cd6ca7e2bf4ffc18ae4525ef81a7fc2c029a2678"
 metafile = true
@@ -247,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/extralib.pw.toml"
-hash = "399baa60c4e04eb4cf6ca5b12f33d736057db1f72c2ad4ad84a0fe9a832b3d53"
+hash = "f148ff199a595313e48fa6931686606ed83d5806fcdafbd95b376721000aaabe"
 metafile = true
 
 [[files]]
@@ -397,12 +477,12 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "32551cd3db88210863565b772ee47679cbf1eeff163fb93b9ef84a79fa069496"
+hash = "583a335211bc3a21bb379394344b67d64bffea421e7f7942c254903e1d607814"
 metafile = true
 
 [[files]]
 file = "mods/legendcontrol.pw.toml"
-hash = "34e22da9bed5ed07a1f005626f5073fa5e0e89d18f810f46fe858f5508fb9b8c"
+hash = "e15c09db73c1ed13daed6fba49840dbe37f71ad24661a36efed5fa6285f124f9"
 metafile = true
 
 [[files]]
@@ -412,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootjs.pw.toml"
-hash = "9b32e1374a3d85ccdd4803c8932f72fbeb6357e69d895980e3f24e1974a07ca6"
+hash = "e42581d8eb65aa947dcbe6edb71b2082e84f31936b01f131758395d88dabc919"
 metafile = true
 
 [[files]]
@@ -442,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisiumforked.pw.toml"
-hash = "df6299f5622d3e53a9cae66696cdc7b2b557b11b5be101eebb7ebd7a91d501db"
+hash = "11835b8555c23090b12d6ca9be871a6b5bfcec5ff7f48e77ef09c784af40b69e"
 metafile = true
 
 [[files]]
@@ -457,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "b586f666162c916d768532cbb98f390aa66f4998ca9ab0999bc4a9b7de5bb83f"
+hash = "5a59ebe515dbf2b637ac23bedeb33e545675668a0a454c5d6edd4d207a458844"
 metafile = true
 
 [[files]]
@@ -532,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/sablecompat.pw.toml"
-hash = "753db312dde944dc4278569734f2d14a7e47a9344946de3cf3b10c601ecd9764"
+hash = "b9ceb0fa4707ced2e0467f334ce8b6cb2fd60c729b47aee065e2bb0d5b905189"
 metafile = true
 
 [[files]]
@@ -612,7 +692,7 @@ metafile = true
 
 [[files]]
 file = "mods/too-fast.pw.toml"
-hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
+hash = "49fb27f04c4ec26614fd121a7a8f7764d59949d0b6a3c32a63fb57fd2b3c8ea9"
 metafile = true
 
 [[files]]

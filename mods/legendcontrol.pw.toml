@@ -1,6 +1,6 @@
 name = "LegendControl [Pixelmon]"
 filename = "LegendControl-3.4.1-1.21.1-NeoForge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/oV669Jp2/versions/bIlJ3DTP/LegendControl-3.4.1-1.21.1-NeoForge.jar"
