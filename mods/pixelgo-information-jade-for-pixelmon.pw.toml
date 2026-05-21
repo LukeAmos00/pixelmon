@@ -1,0 +1,13 @@
+name = "PixelGO - Information - Jade (for Pixelmon)"
+filename = "pixelinformationjade-0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ab51d2e52789d0c0cd333fb956000f122fafb6c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7419056
+project-id = 1421073

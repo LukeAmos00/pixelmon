@@ -1,0 +1,13 @@
+name = "Disable Mob Replacement"
+filename = "disablemobreplacement-1.2.0-ExceptVillagers.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac20e1f33621a357539e94425cbfe66822c5f259"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6563342
+project-id = 898888

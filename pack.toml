@@ -1,0 +1,13 @@
+name = "Pixelmon"
+author = "luke"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "24d07ba67512c7c886acb5875aee5c3c4e31654a5de8d671f904c77e977f1805"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.230"

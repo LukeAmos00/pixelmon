@@ -1,0 +1,13 @@
+name = "Ametrin API"
+filename = "ametrin-1.21.1-0.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MDff90bf/versions/TxTpf20M/ametrin-1.21.1-0.2.4.jar"
+hash-format = "sha512"
+hash = "5b32a41baeafb0e1a95ebf2009af22637a415c5bb451cd87fd5e307b967517d09cb7bcc51eacd7fdb0a0763d6b5957e7c084fa5df8d8663c1b574655f6d8bf59"
+
+[update]
+[update.modrinth]
+mod-id = "MDff90bf"
+version = "TxTpf20M"

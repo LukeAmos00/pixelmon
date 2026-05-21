@@ -1,0 +1,13 @@
+name = "PixelTweaks"
+filename = "PixelTweaks-3.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/M554ReuW/versions/jZwMrKUg/PixelTweaks-3.0.8.jar"
+hash-format = "sha512"
+hash = "a2c8b86ec715301055e82d60e32f224b80d737454768491a56ce19d149d02b83abb88c5b436f221c093a5c2561266644c82c41b04753640235157cee6373a482"
+
+[update]
+[update.modrinth]
+mod-id = "M554ReuW"
+version = "jZwMrKUg"
