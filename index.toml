@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/README.txt"
-hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
-
-[[files]]
 file = "kubejs/assets/kubejs/models/item/healer.json"
 hash = "5b9b4c145863f027d9dc78e696c5670852133f7d4a6d9507b189a9a8b82ac4f2"
 
@@ -35,50 +31,6 @@ hash = "e9875514752609f32a547ef2f24ada5e31f743449049cf755f6e612479d18cd4"
 [[files]]
 file = "kubejs/client_scripts/main.js"
 hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
-
-[[files]]
-file = "kubejs/config/client.json"
-hash = "0aeb4cb329b896e33a0777a1683b0b813a6f2f0adc5bc2cf3e6d10e18e442fef"
-
-[[files]]
-file = "kubejs/config/common.json"
-hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
-
-[[files]]
-file = "kubejs/config/web_server.json"
-hash = "87e34e85562e348621e18ae7b9ecbf7c1c4c504b6345ee448af41b8bda0499fd"
-
-[[files]]
-file = "kubejs/data/pixelmon/worldgen/structure_set/way_point.json"
-hash = "0c5b2dd1b83eddb2d05f9c66d7bbd80d9f1ab64f57b78670357fe693581c43a9"
-
-[[files]]
-file = "kubejs/server_scripts/healer.js"
-hash = "a0768b5ae986e17cdbe045fc6a50f788fd7140c5733d5bc7821d88403686a722"
-
-[[files]]
-file = "kubejs/server_scripts/laptop.js"
-hash = "fca7033d30ffd3a03fad3f9daf976d435b67a86ebe3af5a62844ed9ea51bd9de"
-
-[[files]]
-file = "kubejs/server_scripts/pokestop_loot_table.js"
-hash = "6f2cb0df4fa4ef105e925b42143ca79f44e526de5c9d313e2db293c357e73006"
-
-[[files]]
-file = "kubejs/startup_scripts/healer.js"
-hash = "a349ad208777b88d993509297ad33dbb37c47e4e702ab424c0d6d0c16b78650c"
-
-[[files]]
-file = "kubejs/startup_scripts/laptop.js"
-hash = "1b38ed0cd864abadfa166be747b86a227800e0771914f8e666e71276d8dccd0f"
-
-[[files]]
-file = "kubejs/startup_scripts/main.js"
-hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
-
-[[files]]
-file = "kubejs/startup_scripts/npc_invuln.js"
-hash = "db5b58f9b7f82f7a6da782c5af9bd66d4cb4991445ca3fdab4bd0da1471de226"
 
 [[files]]
 file = "mods/a-man-with-plushies.pw.toml"
