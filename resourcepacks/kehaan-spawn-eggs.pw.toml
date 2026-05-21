@@ -1,0 +1,13 @@
+name = "Kehaan Spawn Eggs"
+filename = "KehaanSpawnEggs_RP_1.21.1_v1.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b719ac471822334ece45f4a128201d21511f8bd2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6864465
+project-id = 1321433

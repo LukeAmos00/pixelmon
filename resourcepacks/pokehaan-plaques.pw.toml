@@ -1,0 +1,13 @@
+name = "Pokehaan Plaques"
+filename = "PokehaanPlaques_1.21.1_v1.0.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "785f3f3d4f659b1cd16ae465ab4c1111613293fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7810600
+project-id = 1046614

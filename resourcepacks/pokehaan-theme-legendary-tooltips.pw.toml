@@ -1,0 +1,13 @@
+name = "Pokehaan Theme (Legendary Tooltips)"
+filename = "PokehaanThemeLegendaryTooltipsRP_1.21.1_v1.0.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "59bfe29216f334b5f1ff664f78d46dc43a47fd95"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7810616
+project-id = 1089397

@@ -1,0 +1,13 @@
+name = "Pokehaan - GUI"
+filename = "PokehaanGUI_1.20.1_v.1.0.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29a71b10cdb4f2e1ecaf7ec73c54902e1f097def"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7811082
+project-id = 1142891

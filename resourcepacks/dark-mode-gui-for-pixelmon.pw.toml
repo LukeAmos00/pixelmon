@@ -1,0 +1,13 @@
+name = "Dark Mode GUI for Pixelmon"
+filename = "Dark-Mode-Pixelmon-Mod-1.16-v1.0.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YoZjigqW/versions/G4bCuC17/Dark-Mode-Pixelmon-Mod-1.16-v1.0.1.zip"
+hash-format = "sha512"
+hash = "f7a264697a38306fa966e3e6eafd7a5cbdee817a70ef4c8ed1f4a4e6e674b0f05eb19e6ebff5d4baee23f80bc9d46773a0ee1411371af393a15cd274220487df"
+
+[update]
+[update.modrinth]
+mod-id = "YoZjigqW"
+version = "G4bCuC17"

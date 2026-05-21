@@ -1,0 +1,13 @@
+name = "Better Pixelmon Flying"
+filename = "[1.21.1 - 9.3.14] BetterFlying.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42cf9c254d627843b71b080c6ad7a828a6e974fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7455789
+project-id = 822757

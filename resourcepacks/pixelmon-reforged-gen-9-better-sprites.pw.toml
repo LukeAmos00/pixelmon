@@ -1,0 +1,13 @@
+name = "Pixelmon Reforged Gen 9 Better Sprites"
+filename = "gen 9 better sprites.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xldhKzjO/versions/MCgx9GlV/gen%209%20better%20sprites.zip"
+hash-format = "sha512"
+hash = "a375330bdc85469f1b22509a1302234fd3e88879275452da81e5c07f2de64c5e28c1f12d79bfe4c66030e3acbeb39c9cb836e10763bd26a2ff973fd320d4509d"
+
+[update]
+[update.modrinth]
+mod-id = "xldhKzjO"
+version = "MCgx9GlV"

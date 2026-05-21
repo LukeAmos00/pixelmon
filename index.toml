@@ -649,3 +649,88 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
+
+[[files]]
+file = "resourcepacks/animated-items.pw.toml"
+hash = "387744595222a5295feab047d5f282b2ed3a0f9790a3655ccc5457e8fb028ab7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-pixelmon-flying.pw.toml"
+hash = "beea2b1bd002379e04aa7b47ef373ef46254980d44980bf46a6daeebcea15978"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dark-mode-gui-for-pixelmon.pw.toml"
+hash = "a64368788afe424c8ed3deb55bca3cf6ad224ab5bc7006c0ae9eb0ca44b5cb1b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "19e48b773677cc0d4a448e7ec5f4d82d7c9bd21063aac3c1bf710b4a78865c53"
+metafile = true
+
+[[files]]
+file = "resourcepacks/kehaan-spawn-eggs.pw.toml"
+hash = "6e3306d8cbbe5d3582a6d8d81cf3f1b5c7afc15067b6f15a2bcdde65ae6d51ee"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pixelmon-reforged-gen-9-better-sprites.pw.toml"
+hash = "4c345295b01970c64e6870765779baf90abfc5718629824fcd8a56402d1d2e8a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pokediscs.pw.toml"
+hash = "4e525a07585311cead2dcf121e5147e7bcaaa3f8d6df8566568ffb769c9208bd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pokehaan-gui.pw.toml"
+hash = "e5bbc5cedbf8f34ecb5e04e1dfdd7d7f705c443982a082d55f45f6cd142e3915"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pokehaan-plaques.pw.toml"
+hash = "a94df225c085c4dded8f9a414bcc3e5d5ab7a7020994e0d1c41e81dd9ea2444e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pokehaan-theme-legendary-tooltips.pw.toml"
+hash = "a99e88891a774b627b4e81954ce87900ed7f1664bbdb320cc7162b2635f65995"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pokehaan-waystone-textures.pw.toml"
+hash = "0f333ec7cdb46dbe43c7fcee9f30375d0c13af4d05f8733635c62c7485caccaf"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "9ebd5ffa0b9740b9b19ba85076976a3850f4e3996fb19efd34e0a15141dbd4a9"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "608b87f75b2387a9fbd340cb18a8238bbbe5a0afc54202634b34f3000246b6e7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "85edba5e221fc8c2cbf4fbdd4b6b1973fcfb3aa571cbe68f0d4df5d8aa5c9750"
+metafile = true
+
+[[files]]
+file = "shaderpacks/nostalgia-shader.pw.toml"
+hash = "c889cdbd8131aabcdb3f7e16bec343d877025a0862b4c033d4a95febca21d187"
+metafile = true
+
+[[files]]
+file = "shaderpacks/vanilla-plus-shader.pw.toml"
+hash = "6a55aacf66c97024c0ca9321bd0c6319ab080945afdfcae08f42a3f513bed8da"
+metafile = true
