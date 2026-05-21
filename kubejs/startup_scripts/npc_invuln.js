@@ -8,5 +8,5 @@ NativeEvents.onEvent('net.neoforged.neoforge.event.entity.living.LivingIncomingD
     if (source && source.creativeMode)
         return
 
-    event.cancel()
+    event.setCanceled(true)
 })
