@@ -248,18 +248,13 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "56cb2e8e396bf26b56ffe0a44c794984435c35e15959ff46539bb8aead85ad77"
-metafile = true
-
-[[files]]
 file = "mods/distraction-free-recipes.pw.toml"
 hash = "820727a4852072ccad40e99d05fdab98d7d5b214ef2fa1b01fc102408b0d322c"
 metafile = true
 
 [[files]]
-file = "mods/effortless.pw.toml"
-hash = "fb15c2081315f5d57a085056246f0f2c221e318bb81564ca631220fea650bb35"
+file = "mods/effortless-building.pw.toml"
+hash = "2fe3ff82d4eee03412655d1c9c1c117c63a15187617c68f3139eaaceffa9a670"
 metafile = true
 
 [[files]]
