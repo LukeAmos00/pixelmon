@@ -248,11 +248,6 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
-file = "mods/disable-mob-replacement.pw.toml"
-hash = "2d7020193e9325715b55029698be7def09b537036b85261c6a60b671f4a851c1"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "56cb2e8e396bf26b56ffe0a44c794984435c35e15959ff46539bb8aead85ad77"
 metafile = true
