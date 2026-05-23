@@ -1,6 +1,94 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/assets/16x16.png"
+hash = "be0985c34c8020f3ba40537b124e5d6cb30a4c54983eb029d699453b33214569"
+
+[[files]]
+file = "config/fancymenu/assets/32x32.png"
+hash = "c3951b9990ff036e518874d5e30d7187502a8aa52d3a03fac7df69bd9d0cd50f"
+
+[[files]]
+file = "config/fancymenu/assets/logo.png"
+hash = "056ff4f770f917f28f2ccc5730ad10d94a176166b8115a6c5e3a90652468922e"
+
+[[files]]
+file = "config/fancymenu/assets/mac.icns"
+hash = "451b586636c984738c0e30fc216876fdc49c9eb68fcca29ffdc3148941cd1f1e"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "33a7538189b104668ba576efd64da9f2dfba1a8ec5e63c99a95eb2085175633a"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "f59b63bfd4798a5b34f7d23b8e6f41ea8a93845fb953615bd27ed2f3c6b1cfb6"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "11b0ab3e884fdc8dd3eaa90738f9a77089b229154d145c92762ffe7b768af92e"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "ecab2cbee69e0ea10a64a2f656ae748d7a745cf14e6bdcbeb2201353983ccb97"
+
+[[files]]
+file = "config/fancymenu/ui_themes/cherry_blossom.json"
+hash = "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452"
+
+[[files]]
+file = "config/fancymenu/ui_themes/cozy_campfire.json"
+hash = "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark_high_contrast.json"
+hash = "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light_high_contrast.json"
+hash = "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a"
+
+[[files]]
+file = "config/fancymenu/ui_themes/pumpkin_soup.json"
+hash = "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311"
+
+[[files]]
+file = "config/fancymenu/ui_themes/purple_void.json"
+hash = "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0"
+
+[[files]]
+file = "config/fancymenu/ui_themes/spooky_season.json"
+hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "3172efb2dc8129c47fcbc1707385d7d87a2e6e975770e7af781500934583debd"
+
+[[files]]
 file = "config/sdrp-common.json5"
 hash = "1291e62dd668eecc225d43cded1e3e1b351b8f3afde1c66d87a36793fd7d3ed7"
 
@@ -318,6 +406,11 @@ hash = "f148ff199a595313e48fa6931686606ed83d5806fcdafbd95b376721000aaabe"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "f9398de9ed43f360533cd4a58763a48ccc0674ab7943401e297d1f4a58e775e7"
+metafile = true
+
+[[files]]
 file = "mods/farmers-cutting-oh-the-biomes-weve-gone.pw.toml"
 hash = "5135cb75af54eb83a61156dd252d19f308b8674d0c5fd778da568527bf6031d3"
 metafile = true
@@ -463,6 +556,11 @@ hash = "1312599df5e9b131671fd61fc9e2699e1a30b573f975d7dc5e1dc1abb79aa11f"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
@@ -495,6 +593,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "988377a2fb2346223a83b6545ec52f5b22ebd0e26b63d141427ad389bedfe4f0"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
 metafile = true
 
 [[files]]
