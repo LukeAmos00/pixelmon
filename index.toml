@@ -87,6 +87,7 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 [[files]]
 file = "config/quark-common.toml"
 hash = "3172efb2dc8129c47fcbc1707385d7d87a2e6e975770e7af781500934583debd"
+preserve = true
 
 [[files]]
 file = "config/resourcepackoverrides.json"
@@ -95,6 +96,11 @@ hash = "b30a49580f2d9cc2a95ec9ff30431bbc26d10f10ef283d418d048cd1d4aff982"
 [[files]]
 file = "config/sdrp-common.json5"
 hash = "1291e62dd668eecc225d43cded1e3e1b351b8f3afde1c66d87a36793fd7d3ed7"
+
+[[files]]
+file = "config/yes_steve_model-client.toml"
+hash = "4d0e2c375cf2419a832177e6b401b5e18216e6fc46a040fda25db4e5995bea60"
+preserve = true
 
 [[files]]
 file = "kubejs/README.txt"
