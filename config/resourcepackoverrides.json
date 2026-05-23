@@ -1,0 +1,34 @@
+{
+    "schema_version": 2,
+    "failed_reloads_per_session": 5,
+    "default_packs": [
+        "mod_resources",
+    
+        "file/[1.21.1 - 9.3.14] BetterFlying.zip",
+
+        "file/SodiumTranslations.zip",
+        "file/pokehaan_waystone_1.20.1_v1.0.2.zip",
+        "file/PokehaanThemeLegendaryTooltipsRP_1.21.1_v1.0.2.zip",
+        "file/PokehaanPlaques_1.21.1_v1.0.2.zip",
+        "file/Poke Discs 1.20.x.zip",
+        "file/KehaanSpawnEggs_RP_1.21.1_v1.0.0.zip",
+        "file/gen 9 better sprites.zip",
+        "file/animated-items 1.21.x-26.1.x - v1.6.3.zip",
+
+        "file/Default-Dark-Mode-1.20.2+-2025.5.0.zip",
+        "file/PokehaanGUI_1.20.1_v.1.0.1.zip",
+        "file/Dark-Mode-Pixelmon-Mod-1.16-v1.0.1.zip"
+    ],
+    "default_overrides": {
+        "force_compatible": true
+    },
+    "pack_overrides": {
+        "1": [
+          "file/[1.21.1 - 9.3.14] BetterFlying.zip"
+        ],
+        "$$1": {
+          "hidden": true,
+          "required": true
+        }
+    }
+}

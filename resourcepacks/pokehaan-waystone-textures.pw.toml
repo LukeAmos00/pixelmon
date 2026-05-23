@@ -1,13 +1,13 @@
 name = "Pokehaan Waystone Textures"
-filename = "pokehaan_waystone_1.21.11_v1.0.2.zip"
+filename = "pokehaan_waystone_1.20.1_v1.0.2.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6e41a933772d269b90f9dcda040333db11e4eb29"
+hash = "8cfa207003db06e50634c2e0fe4a815bd6be40b6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7603566
+file-id = 6644400
 project-id = 1282710

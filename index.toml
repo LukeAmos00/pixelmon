@@ -89,6 +89,10 @@ file = "config/quark-common.toml"
 hash = "3172efb2dc8129c47fcbc1707385d7d87a2e6e975770e7af781500934583debd"
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+hash = "b30a49580f2d9cc2a95ec9ff30431bbc26d10f10ef283d418d048cd1d4aff982"
+
+[[files]]
 file = "config/sdrp-common.json5"
 hash = "1291e62dd668eecc225d43cded1e3e1b351b8f3afde1c66d87a36793fd7d3ed7"
 
@@ -243,6 +247,16 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "34cb9102708e368a116c6b11e98728e0c4b471a6afdf7ce9602f93cb75174509"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel-patcher.pw.toml"
+hash = "caab0399294fca902849b8eb653f56840bc107d5dbd0b0cbaab3d60ca4cc01f9"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "cf96528ec5aa32b22b850ec4ebc7a5276145a6f429dd17d4b0e3ce820187ea8f"
 metafile = true
 
 [[files]]
@@ -511,11 +525,6 @@ hash = "17165c65683990704d03c588c0c155a55d7cdba250f2aeecff9daa8639e59794"
 metafile = true
 
 [[files]]
-file = "mods/iris-flw-compat.pw.toml"
-hash = "ed85b2ed42beb6523223eef6f0ae397ed29f8059b2bf5aa08d8598de04865614"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
@@ -698,6 +707,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "b8101dca20d054277d99e75b43dd8db44dea64a761d2ab69fdda9f6d59d9e6f1"
 metafile = true
 
 [[files]]
@@ -887,7 +901,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pokehaan-waystone-textures.pw.toml"
-hash = "0f333ec7cdb46dbe43c7fcee9f30375d0c13af4d05f8733635c62c7485caccaf"
+hash = "2c90e0fef363bbd1d7867b2b518dcaadb35e71189124949337d46a3a4716af92"
 metafile = true
 
 [[files]]
