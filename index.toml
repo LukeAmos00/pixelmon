@@ -98,6 +98,10 @@ file = "config/sdrp-common.json5"
 hash = "1291e62dd668eecc225d43cded1e3e1b351b8f3afde1c66d87a36793fd7d3ed7"
 
 [[files]]
+file = "config/trashslot-common.toml"
+hash = "561ca5450162a07377bf6a00ac5bb41e063702796a1feace38080655c545f5db"
+
+[[files]]
 file = "config/yes_steve_model-client.toml"
 hash = "4d0e2c375cf2419a832177e6b401b5e18216e6fc46a040fda25db4e5995bea60"
 preserve = true
