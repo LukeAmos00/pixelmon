@@ -1262,6 +1262,11 @@ hash = "761399708f2048193ff88812cd1369e4b2f7aa9958dc3fbc69d62854c2f35fe7"
 metafile = true
 
 [[files]]
+file = "mods/utilitarian.pw.toml"
+hash = "74104b7854f3ee565c7c47e8f01fcbfba464aa33f5d9d1be9e026b8da09abc26"
+metafile = true
+
+[[files]]
 file = "mods/waystones-sable.pw.toml"
 hash = "e1c4d32608e9da4e92c6151c445196b75eb6b41893cb1a64f4c5f0ba205ae97a"
 metafile = true
