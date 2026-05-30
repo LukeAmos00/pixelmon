@@ -1082,9 +1082,8 @@ hash = "650330109d21831664d2ff597c7a90200eda69a1efaca4e9b0b6b6297ac3c364"
 metafile = true
 
 [[files]]
-file = "mods/pixelgo-information-jade-for-pixelmon.pw.toml"
-hash = "2e9d069593aa7e733e246972bfb8e4f0f1ed14a711e555f2902cf1295a4b362e"
-metafile = true
+file = "mods/pixelinformationjadepatched-0.0.1.jar"
+hash = "6cd21578c8b8589f1af896401f7e7156cdcc24929dc19c4d70a0ecdea7447333"
 
 [[files]]
 file = "mods/pixelmon.pw.toml"
