@@ -648,7 +648,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "cf96528ec5aa32b22b850ec4ebc7a5276145a6f429dd17d4b0e3ce820187ea8f"
+hash = "21399291eab26dc16a3d3455b4388df2bc42512570729dbcdd60697c1a84fd77"
 metafile = true
 
 [[files]]
@@ -978,7 +978,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "1312599df5e9b131671fd61fc9e2699e1a30b573f975d7dc5e1dc1abb79aa11f"
+hash = "cc1176406703bd2300c0cc30077e1ca8329b8e795dce1c731f2e92d81ffdb6c5"
 metafile = true
 
 [[files]]
@@ -1033,7 +1033,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "1b0bcb6b0739ac51a706398c6f3765e1875e95490a9284603ee5628c259a4f63"
+hash = "e16a311d5197e286f0955f2ebfb46a72d711050e589224f60fcb8e931eb3a386"
 metafile = true
 
 [[files]]
